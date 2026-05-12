@@ -1,1 +1,11 @@
-# MachineLearning-ArtificialIntelligence
+机器学习与人工智能
+
+核心特色
+
+教辅资料齐全
+
+本书为教师提供了完整的教辅资料，包括教学大纲、电子课件、习题解答等，可通过封底联系方式向出版社索取。
+
+相关资源
+学习交流平台
+本书在使用过程中积累了大量高质量反馈数据，包括读者记录的学习过程，对原理、模型、算法的理解和解读，开展的编程实践，以及参阅的其他资料等，这些内容都以 Markdown 文档的形式发布在https://github.com/XL-lab-bigdata/MachineLearning-ArtificialIntelligence.git 上，以供读者广泛参考，提高学习效率。
